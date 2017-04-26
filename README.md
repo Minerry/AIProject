@@ -6,7 +6,6 @@ This is the repository for the 2017 Artificial Intelligence Units. You will only
 
  - Only the cool kids can test.
  
- 
- '''sh
+ ```sh
  echo THE CAKE IS A LIE!
- '''
+ ```
